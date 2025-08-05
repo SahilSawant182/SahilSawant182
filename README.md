@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SahilSawant182&label=Profile%20views&color=0e75b6&style=flat" alt="SahilSawant182" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SahilSawant182" alt="SahilSawant182" /></a> </p>
+<p align="left"> <a href="https://github.com/SahilSawant182/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SahilSawant182" alt="SahilSawant182" /></a> </p>
 
 - 📫 How to reach me **sawantsahil183@gmail.com**
 
