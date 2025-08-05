@@ -9,7 +9,7 @@
 
 <h3 align="left">Consider following</h3>
 <p align="left">
-  LinkedIn - **https://www.linkedin.com/in/sahil182?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+  LinkedIn - https://www.linkedin.com/in/sahil182
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
