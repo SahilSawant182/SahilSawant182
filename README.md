@@ -7,14 +7,13 @@
 
 ### About Me
 - Focused on backend + system-level development  
-- Strong in DSA, problem-solving, and core CS (OS, DBMS, CN, OOP)  
 - Currently building with Frappe, React, and scalable systems  
 
 ---
 
 ### Tech Stack
 **Languages:**  
-C++ • Python • SQL  
+C++ • Python • Javascript • SQL 
 
 **Tools & Technologies:**  
 Git • Linux • MySQL  
