@@ -1,6 +1,6 @@
 <h1 align="center">Sahil Sawant</h1>
 <p align="center">
-  Software Developer • Problem Solver • India
+  Software Developer • India
 </p>
 
 ---
