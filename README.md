@@ -32,16 +32,7 @@ LangChain • LangGraph • Ollama • OpenAI API • Hugging Face • RAG
 **Tools:**  
 Git • GitHub • Linux • Docker • VS Code
 
----
 
-## 🚀 Currently Working On
-
-- 🤖 AI Agent Development
-- ⚡ Backend Systems with Frappe & Python
-- 📈 AI Career Guidance Platform
-- 💡 DSA & System Design
-
----
 
 ## 📫 Connect
 
