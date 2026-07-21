@@ -1,7 +1,7 @@
 <h1 align="center">Sahil Sawant</h1>
 
 <p align="center">
-AI Software Engineer • Backend Developer • Frappe Developer • Building AI Agents
+Software Developer • Frappe Developer • MERN Stack Developer 
 </p>
 
 ---
@@ -29,10 +29,10 @@ My goal is to become an **AI Engineer** specializing in:
 - C++
 
 ### Backend
+- MERN
 - Frappe Framework
 - REST APIs
 - MySQL
-- Redis
 
 ### Frontend
 - React
