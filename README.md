@@ -1,102 +1,55 @@
 <h1 align="center">Sahil Sawant</h1>
 
 <p align="center">
-Software Developer • Frappe Developer • MERN Stack Developer 
+   Software Developer • Frappe Developer • MERN Stack Developer
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Developer focused on building **AI-powered applications**, **backend systems**, and **production-ready software**.
-
-Currently working with **Python, Frappe, React, and AI frameworks** while building intelligent applications that solve real-world problems.
-
-My goal is to become an **AI Engineer** specializing in:
-- AI Agents
-- LLM Applications
-- Backend Architecture
-- Scalable AI Systems
+- 💻 Software Developer passionate about AI and Backend Development
+- 🤖 Building AI Agents, LLM Applications, and Production Software
+- ⚡ Working with Python, Frappe, React, and Next.js
+- 📚 Currently learning LangChain, LangGraph, RAG, and System Design
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-- Python
-- JavaScript
-- SQL
-- C++
+**Languages:**  
+Python • JavaScript • SQL • C++
 
-### Backend
-- MERN
-- Frappe Framework
-- REST APIs
-- MySQL
+**Backend:**  
+Frappe • Node.js • Express.js • REST APIs • MySQL
 
-### Frontend
-- React
-- Next.js
-- HTML
-- CSS
+**Frontend:**  
+React • Next.js • HTML • CSS
 
-### AI & Machine Learning
-- LangChain
-- LangGraph
-- Ollama
-- OpenAI APIs
-- Hugging Face
-- Prompt Engineering
-- RAG
-- Vector Databases (Learning)
+**AI:**  
+LangChain • LangGraph • Ollama • OpenAI API • Hugging Face • RAG
 
-### DevOps & Tools
-- Git
-- GitHub
-- Linux
-- Docker
-- VS Code
+**Tools:**  
+Git • GitHub • Linux • Docker • VS Code
 
 ---
 
-## 🔥 Current Focus
+## 🚀 Currently Working On
 
-- 🤖 Building Production-Ready AI Agents
-- 🧠 Learning LLM Architecture
-- ⚡ Backend Development with Python & Frappe
+- 🤖 AI Agent Development
+- ⚡ Backend Systems with Frappe & Python
 - 📈 AI Career Guidance Platform
-- 🏗️ System Design & Scalable Architectures
-- 💡 DSA for Software Engineering Interviews
+- 💡 DSA & System Design
 
 ---
 
-## 🚀 Featured Projects
-
-- 🤖 AI Career Trend Agent
-- 📦 Quantbit Billing Platform
-- 🏢 ERP Solutions using Frappe
-- 📊 Warehouse Management System
-- ⚙️ AI-Powered Backend Automation
-
----
-
-## 🎯 2026 Goals
-
-- Build Multiple AI Agent Projects
-- Master LangChain & LangGraph
-- Learn RAG & Vector Databases
-- Contribute to Open Source
-- Crack a High-Paying AI Software Engineer Role
-
----
-
-## 📫 Connect With Me
+## 📫 Connect
 
 📧 **Email:**  
 **sawantsahil183@gmail.com**
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/sahil182
+**linkedin.com/in/sahil182**
 
 ---
 
