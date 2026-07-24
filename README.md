@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 💻 Software Developer passionate about AI and Backend Development
+- 💻 Software Developer passionate about AI and Web Development
 - 🤖 Building AI Agents, LLM Applications, and Production Software
 - ⚡ Working with Python, Frappe, React, and Next.js
 - 📚 Currently learning LangChain, LangGraph, RAG, and System Design
@@ -24,7 +24,7 @@ Python • JavaScript • SQL • C++
 Frappe • Node.js • Express.js • REST APIs • MySQL
 
 **Frontend:**  
-React • Next.js • HTML • CSS
+React • Next.js • HTML • CSS 
 
 **AI:**  
 LangChain • LangGraph • Ollama • OpenAI API • Hugging Face • RAG
